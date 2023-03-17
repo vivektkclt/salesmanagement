@@ -1,11 +1,7 @@
 {
   "name": "SaleManagement",
-  "version": "1.0.0",
-  "description": "sales management application",
-  "main": "index.js",
-  "repository": "https://github.com/vivektkclt/salesmanagement.git",
-  "author": "Vivek T K <vivek.t@cubettech.com>",
-  "license": "MIT",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
